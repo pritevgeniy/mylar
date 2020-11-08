@@ -40,5 +40,6 @@ P.S.
  * `405` - такой метод не существует
 
 
-Example site:
-`http://poisk.cv89914.tmweb.ru`
+Example site: [http://poisk.cv89914.tmweb.ru](http://poisk.cv89914.tmweb.ru)
+
+Example request: GET [https://poisk.cv89914.tmweb.ru/api/v1/translates/languages-list](https://poisk.cv89914.tmweb.ru/api/v1/translates/languages-list)
